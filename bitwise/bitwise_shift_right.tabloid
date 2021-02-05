@@ -1,0 +1,13 @@
+DISCOVER HOW TO bitwise_shift_right WITH value, shift
+  RUMOR HAS IT
+    WHAT IF shift IS ACTUALLY 0
+      SHOCKING DEVELOPMENT value
+    LIES!
+      RUMOR HAS IT
+        EXPERTS CLAIM half_value TO BE value DIVIDED BY 2
+        EXPERTS CLAIM half_value_floored TO BE half_value MINUS (half_value MODULO 1)
+        SHOCKING DEVELOPMENT bitwise_shift_right OF half_value_floored, (shift MINUS 1)
+      END OF STORY
+  END OF STORY
+
+PLEASE LIKE AND SUBSCRIBE
