@@ -11,7 +11,7 @@ DISCOVER HOW TO square_root WITH value
         WHAT IF absolute OF ((guess TIMES guess) MINUS value) SMALLER THAN 0.001 SHOCKING DEVELOPMENT guess
         LIES! SHOCKING DEVELOPMENT babylonian_root OF ((guess PLUS (value DIVIDED BY guess)) DIVIDED BY 2)
       END OF STORY
-    SHOCKING DEVELOPMENT babylonian_root OF (value DIVIDED BY 2)
+    SHOCKING DEVELOPMENT babylonian_root OF value
   END OF STORY
 
 PLEASE LIKE AND SUBSCRIBE
