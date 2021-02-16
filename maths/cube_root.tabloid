@@ -1,0 +1,19 @@
+DISCOVER HOW TO absolute WITH value
+  RUMOR HAS IT
+    WHAT IF (value SMALLER THAN 0) SHOCKING DEVELOPMENT 0 MINUS value
+    LIES! SHOCKING DEVELOPMENT value
+  END OF STORY
+
+DISCOVER HOW TO cube_root WITH value
+  RUMOR HAS IT
+    DISCOVER HOW TO babylonian_cube_root WITH guess
+    RUMOR HAS IT
+      WHAT IF absolute OF (((guess TIMES guess) TIMES guess) MINUS value) SMALLER THAN 0.00001
+        SHOCKING DEVELOPMENT guess
+      LIES!
+        SHOCKING DEVELOPMENT babylonian_cube_root OF ((guess PLUS (value DIVIDED BY (guess TIMES guess))) DIVIDED BY 2)
+    END OF STORY
+    SHOCKING DEVELOPMENT babylonian_cube_root OF value
+  END OF STORY
+
+PLEASE LIKE AND SUBSCRIBE
